@@ -1,3 +1,104 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.display-none {
+    @apply hidden;
+}
+
+/* Dark Transition */
+.dark-transition {
+    @apply transition duration-300 ease-in-out;
+}
+
+/* Custom Navbar Fixed */
+.navbar-fixed {
+    @apply fixed z-[9999] bg-white bg-opacity-70 backdrop-blur-xl dark:bg-dark dark:bg-opacity-70;
+}
+
+/* Custom Navbar Menu */
+.nav-menu {
+    @apply flex m-0 py-2 px-3 md:py-3 md:px-5 lg:py-4 lg:px-8 rounded-full transition-colors;
+}
+
+/* Custom Navbar Button */
+.nav-btn {
+    @apply text-xs md:text-sm lg:text-base font-semibold text-dark dark:text-white rounded-full py-1 px-2 md:py-1.5 md:px-3;
+}
+#nav a.router-link-active {
+    @apply bg-primary text-white dark:text-dark transition duration-500 ease-in-out;
+}
+
+/* Text Gradient Animation */
+.text-gradient {
+    @apply animate-text bg-gradient-to-r from-primary via-secondary to-tertiary bg-clip-text text-transparent;
+}
+
+/* Custom Title, Subtitle, Description Text */
+.title-text {
+    @apply text-2xl md:text-3xl lg:text-4xl font-bold;
+}
+.subtitle-text {
+    @apply text-base md:text-xl font-medium;
+}
+.description-text {
+    @apply text-base md:text-lg font-medium;
+}
+
+/*Box Border Animation */
+.box-border-animation {
+    @apply relative w-auto h-auto bg-white dark:bg-dark rounded-3xl flex justify-center items-center overflow-hidden;
+}
+.box-border-animation::after {
+    @apply absolute w-[1500px] h-[1500px];
+    content: '';
+    background-image: conic-gradient(transparent, transparent, transparent, #a855f7);
+    animation: animate 4s linear infinite;
+    animation-delay: -2s;
+}
+.box-border-animation::before {
+    @apply absolute w-[1500px] h-[1500px];
+    content: '';
+    background-image: conic-gradient(transparent, transparent, transparent, #10b981);
+    animation: animate 4s linear infinite;
+}
+@keyframes animate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.box-border-animation span {
+    @apply absolute inset-[5px] rounded-3xl bg-white dark:bg-dark z-10;
+}
+
+/* Card Skills */
+.card-skills {
+    @apply relative w-28 h-28 md:w-52 md:h-52 p-7 md:p-10 bg-slate-100 dark:bg-slate-800 flex flex-col justify-center items-center shadow-lg rounded-xl md:rounded-2xl transition duration-300 ease-in-out overflow-hidden;
+}
+.card-skills span {
+    @apply absolute inset-[3px] md:inset-[5px] rounded-lg md:rounded-xl bg-slate-100 dark:bg-slate-800 z-10;
+}
+.card-skills img {
+    @apply w-14 h-14 md:w-28 md:h-28;
+}
+.card-skills p {
+    @apply mt-2 text-center md:mt-4 font-semibold text-xs md:text-lg text-dark dark:text-white;
+}
+
+
+/* Custom Swiper Slide */
+.swiper-slide {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.swiper-3d .swiper-slide-shadow {
+    background: none !important;
+}
