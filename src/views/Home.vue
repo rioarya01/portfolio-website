@@ -91,7 +91,7 @@
                                 </p>
                                 <div class="flex gap-5 justify-center md:justify-end">
                                     <!-- Blog -->
-                                    <a href="http://twitter.com" target="_blank" class="flex items-center gap-2 py-1 px-5 rounded bg-primary text-white font-semibold hover:bg-emerald-600 transition duration-300 ease-in-out">
+                                    <a href="#" target="_blank" class="flex items-center gap-2 py-1 px-5 rounded bg-primary text-white font-semibold hover:bg-emerald-600 transition duration-300 ease-in-out">
                                         <svg 
                                             class="fill-current" 
                                             width="16" 

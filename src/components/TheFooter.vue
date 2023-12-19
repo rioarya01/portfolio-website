@@ -4,7 +4,7 @@
             <div class="flex flex-wrap py-5">
                 <!-- Copyrights -->
                 <div class="w-full self-center lg:w-1/2 gap-1 text-center lg:text-start">
-                    <p class="text-lg md:text-xl font-semibold text-primary">© 2023 I Gede Rio Arya Bawesi</p>
+                    <p class="text-lg md:text-xl font-semibold text-primary">&copy; {{ new Date().getFullYear() }} I Gede Rio Arya Bawesi</p>
                     <p class="text-sm md:text-base font-medium text-dark dark:text-white">Built using Vue.js 3 + Vite.js + Tailwind CSS</p>
                 </div>
                 <!-- Social Media -->
