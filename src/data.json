@@ -5,25 +5,25 @@
             "name" : "Rio Bawesi",
             "fullName" : "I Gede Rio Arya Bawesi",
             "label" : "Front-End Web Developer", 
-            "image" : "myprofile.png",
+            "image" : "myprofile.webp",
             "description1" : "Halo, nama saya Rio. Saya seorang mahasiswa S1 jurusan Teknik Informatika di Institut Bisnis dan Teknologi Indonesia (INSTIKI). Dunia digitalisasi menarik perhatian saya secara mendalam. Saya menemukan tantangan yang luar biasa dan pengalaman digital yang memukau, maka dari itu saya memiliki minat yang kuat untuk membangun karir dibidang Web Development khususnya pada bidang Front-end Web Development.",
             "description2" : "Menurut saya, membawa ide-ide kedalam kehidupan digital melalui pengembangan situs web adalah sesuatu yang menyenangkan. Kemampuan komunikasi, berpikir kritis, serta perhatian terhadap detail adalah modal utama yang saya miliki. Selain itu, saya juga telah terbiasa dengan fundamental pemrograman Front-end Website seperti HTML, CSS, dan Javascript, serta version control system Git.",
             "description3" : "Melalui dedikasi, saya senantiasa berkomitmen untuk terus mengasah kemampuan ini. Saya percaya bahwa kemajuan teknologi adalah jendela yang tak terbatas untuk mengasah kreativitas.",
             "about" : [
                 {
-                    "image" : "picture1.jpg",
+                    "image" : "picture1.webp",
                     "alt" : "Picture 1"
                 },
                 {
-                    "image" : "picture2.jpg",
+                    "image" : "picture2.webp",
                     "alt" : "Picture 2"
                 },
                 {
-                    "image" : "picture3.jpeg",
+                    "image" : "picture3.webp",
                     "alt" : "Picture 3"
                 },
                 {
-                    "image" : "picture4.jpg",
+                    "image" : "picture4.webp",
                     "alt" : "Picture 4"
                 }
             ],
@@ -124,7 +124,7 @@
                 "Bootstrap 4",
                 "jQuery"
             ],
-            "description": "Proyek ini merupakan proyek yang saya kerjakan selama 5 bulan magang di CV. Harmoni Permata. Perusahaan ini berlokasi di Denpasar, Bali. Selama saya magang di perusahaan ini, saya ditempatkan pada Front-end Web Development didalam redesign website henbuk.com. Henbuk eBooks Marketplace adalah platform jual beli buku digital secara online. Platform ini mengundang penulis, penerbit, dan pembaca buku untuk tumbuh bersama dan membangun ekosistem buku.",
+            "description": "Proyek ini merupakan proyek yang saya kerjakan selama 5 bulan magang di CV. Harmoni Permata yang berlokasi di Denpasar, Bali. Disini saya ditempatkan pada Front-end Web Development didalam redesign website henbuk.com. Henbuk eBooks Marketplace adalah platform jual beli buku digital secara online. Platform ini mengundang penulis, penerbit, dan pembaca buku untuk tumbuh bersama dan membangun ekosistem buku.",
             "views": [
                 {
                     "id": 1,
@@ -154,7 +154,7 @@
                 "DOM",
                 "Web Storage"
             ],
-            "description": "Proyek ini merupakan proyek yang saya kerjakan didalam memenuhi Submission Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage pada Kelas Belajar Membuat Front-End Web untuk Pemula pada kursus Dicoding. Aplikasi ini berfungsi untuk menyimpan data buku yang ingin dibaca. Aplikasi ini dibuat menggunakan HTML, CSS, dan Javascript serta menggunakan Framework Bootstrap 5.",
+            "description": "Proyek ini merupakan proyek yang saya kerjakan didalam memenuhi Submission Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage pada Kelas Belajar Membuat Front-End Web untuk Pemula pada kursus Dicoding. Aplikasi ini berfungsi untuk menyimpan data buku yang ingin dibaca.",
             "views": [
                 {
                     "name": "Demo",
@@ -183,7 +183,7 @@
                 "DOM",
                 "Web Storage"
             ],
-            "description": "Proyek ini merupakan proyek yang saya kerjakan didalam memenuhi Project UAS pada Mata Kuliah Studi Kelayakan Bisnis. Project ini bertema startup digital yang bernama Mr. Montir yang merupakan sebuah bengkel digital yang menyediakan jasa service kendaraan dan penjualan alat-alat kendaraan seperti sparepart, ban, oli, aki dan lainnya. Web Mr. montir ini dibuat hanya dengan HTML, CSS, Javascript dan bantuan Framework Tailwind CSS.",
+            "description": "Proyek ini merupakan proyek yang saya kerjakan didalam memenuhi Project UAS pada Mata Kuliah Studi Kelayakan Bisnis. Project ini bertema startup digital yang bernama Mr. Montir yang merupakan sebuah bengkel digital yang menyediakan jasa service kendaraan dan penjualan alat-alat kendaraan seperti sparepart, ban, oli, aki dan lainnya.",
             "views": [
                 {
                     "name": "Demo",

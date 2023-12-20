@@ -35,10 +35,10 @@
                                     <!-- Title, Year -->
                                     <div class="flex items-center justify-between">
                                         <h3 class="font-bold text-lg md:text-xl text-dark dark:text-white">{{ project.name }}</h3>
-                                        <p class="font-semibold text-xs md:text-sm text-dark dark:text-white">{{ project.year }}</p>
+                                        <p class="font-bold text-xs md:text-sm text-dark dark:text-white">{{ project.year }}</p>
                                     </div>
                                     <!-- Descriptions -->
-                                    <p class="font-light text-xs md:text-sm text-dark dark:text-white text-justify">
+                                    <p class="font-medium text-xs md:text-sm text-dark dark:text-white text-justify">
                                         {{ project.description }}
                                     </p>
                                 </div>
