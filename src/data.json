@@ -371,5 +371,13 @@
             "date": "2023",
             "image": "certificate-training-9.jpg"
         }
+    ],
+    "notFounds": [
+        {
+            "description1": "OOPS!!!",
+            "description2": "We lost this page",
+            "description3": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+            "image": "notfound.svg"
+        }
     ]
 }
