@@ -276,6 +276,90 @@
                     "image": "slides.svg"
                 }
             ]
+        },
+        {
+            "id": 7,
+            "name": "😁 My Portfolio",
+            "image": "rio-portfolio.png",
+            "year": "2023-2024",
+            "technologies": [
+                "Vue.js",
+                "Vue Router",
+                "Tailwind CSS",
+                "Vite.js",
+                "JSON",
+                "Email.js"
+            ],
+            "description": "Website ini adalah portfolio pribadi yang saya buat sebagai bagian dari personal branding saya dalam pengembangan web dan proyek-proyek lainnya. Saya mengembangkannya menggunakan framework Vue.js, tailwind CSS, serta menggunakan bantuan beberapa library lainnya.",
+            "views": [
+                {
+                    "name": "Demo",
+                    "link": "https://www.riobawesi.my.id/",
+                    "image": "demo.svg"
+                }
+            ],
+            "codes": [
+                {
+                    "name": "Github",
+                    "link": "https://github.com/rioarya01/portfolio-website",
+                    "image": "github.svg"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "🎲 Randomize Arisan",
+            "image": "randomize-arisan.png",
+            "year": "2024",
+            "technologies": [
+                "Vue.js",
+                "Vite.js",
+                "Tailwind CSS"
+            ],
+            "description": "Randomize Arisan adalah proyek tugas Belajar Project in Vue Basic di kursus Frontend - VueJS MySkill. Proyek ini adalah aplikasi kecil yang memilih nama acak dari input, dengan fitur tambah, hapus, dan menampilkan pemenang. Saya mengembangkan proyek ini menggunakan framework Vue.js dan Tailwind CSS.",
+            "views": [
+                {
+                    "name": "Demo",
+                    "link": "https://randomize-arisan.vercel.app/",
+                    "image": "demo.svg"
+                }
+            ],
+            "codes": [
+                {
+                    "name": "Github",
+                    "link": "https://github.com/rioarya01/randomize-arisan",
+                    "image": "github.svg"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "🍵 Seina's Cafe",
+            "image": "seinas-cafe.png",
+            "year": "2024",
+            "technologies": [
+                "Vue.js",
+                "Vue Router",
+                "Vite.js",
+                "Bootstrap 5",
+                "JSON Server",
+                "Axios"
+            ],
+            "description": "Seina's Cafe adalah sebuah website cafe sederhana yang saya buat dengan JSON server sebagai Fake REST API didalam penerapan datanya. Saya mengembangkan proyek ini menggunakan framework Vue.js, Bootstrap 5 dan beberapa library lainnya.",
+            "views": [
+                {
+                    "name": "Demo",
+                    "link": "https://seinas-cafe.vercel.app/",
+                    "image": "demo.svg"
+                }
+            ],
+            "codes": [
+                {
+                    "name": "Github",
+                    "link": "https://github.com/rioarya01/seinas-cafe",
+                    "image": "github.svg"
+                }
+            ]
         }
     ],
     "certifications": [

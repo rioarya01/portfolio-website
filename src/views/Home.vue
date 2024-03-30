@@ -91,7 +91,7 @@
                                 </p>
                                 <div class="flex gap-5 justify-center md:justify-end">
                                     <!-- Blog -->
-                                    <a href="#" target="_blank" class="flex items-center gap-2 py-1 px-5 rounded bg-primary text-white font-semibold hover:bg-emerald-600 transition duration-300 ease-in-out">
+                                    <!-- <a href="#" target="_blank" class="flex items-center gap-2 py-1 px-5 rounded bg-primary text-white font-semibold hover:bg-emerald-600 transition duration-300 ease-in-out">
                                         <svg 
                                             class="fill-current" 
                                             width="16" 
@@ -102,9 +102,9 @@
                                             viewBox="0 0 512 512" 
                                             ><g><path d="M434.5,72.3V412c0,33.6-27.5,61.1-61,61.1H126.7c-5.6,0-11-1-16.2-2.5c7.8,23.7,30,41.1,56.2,41.1h249.9   c32.7,0,59.5-26.8,59.5-59.5V128.8C476.1,102.3,458.5,80,434.5,72.3z"/><path d="M345.2,0H95.4C62.7,0,35.9,26.8,35.9,59.5V383c0,32.7,26.8,59.5,59.5,59.5h249.9   c32.7,0,59.5-26.8,59.5-59.5V59.5C404.7,26.8,378,0,345.2,0z M364.2,349.8c0,25.7-21.1,46.8-46.8,46.8H120.9   c-25.7,0-46.8-21.1-46.8-46.8V95.4c0-25.7,21.1-46.8,46.8-46.8h196.6c25.7,0,46.8,21.1,46.8,46.8V349.8z"/><g><path d="M319.8,117.5H190.5c-5.4,0-9.8-4.4-9.8-9.8v-0.7c0-5.4,4.4-9.8,9.8-9.8h129.3c5.4,0,9.8,4.4,9.8,9.8v0.7    C329.7,113.1,325.2,117.5,319.8,117.5z"/><path d="M319.8,175.2H120.4c-5.4,0-9.8-4.4-9.8-9.8v-0.7c0-5.4,4.4-9.8,9.8-9.8h199.5c5.4,0,9.8,4.4,9.8,9.8v0.7    C329.7,170.7,325.2,175.2,319.8,175.2z"/><path d="M319.8,232.8H120.4c-5.4,0-9.8-4.4-9.8-9.8v-0.7c0-5.4,4.4-9.8,9.8-9.8h199.5c5.4,0,9.8,4.4,9.8,9.8v0.7    C329.7,228.4,325.2,232.8,319.8,232.8z"/><path d="M319.8,290.5H120.4c-5.4,0-9.8-4.4-9.8-9.8v-0.7c0-5.4,4.4-9.8,9.8-9.8h199.5c5.4,0,9.8,4.4,9.8,9.8v0.7    C329.7,286.1,325.2,290.5,319.8,290.5z"/><path d="M319.8,348.2H120.4c-5.4,0-9.8-4.4-9.8-9.8v-0.7c0-5.4,4.4-9.8,9.8-9.8h199.5c5.4,0,9.8,4.4,9.8,9.8v0.7    C329.7,343.7,325.2,348.2,319.8,348.2z"/></g></g></svg>
                                         Blog
-                                    </a>
+                                    </a> -->
                                     <!-- Resume -->
-                                    <a href="https://drive.google.com/file/d/1RzF5psvgNv8mONCld-a9KDC3VP-D2RgU/view?usp=sharing" target="_blank" class="flex items-center gap-2 py-1 px-5 rounded bg-secondary text-white font-semibold hover:bg-purple-600 transition duration-300 ease-in-out">
+                                    <a href="https://drive.google.com/file/d/1Clk1goPRcbFGQKuPt-3LeS7ic3wwhEUU/view?usp=sharing" target="_blank" class="flex items-center gap-2 py-1 px-5 rounded bg-secondary text-white font-semibold hover:bg-purple-600 transition duration-300 ease-in-out">
                                         <svg class="fill-current" 
                                             version="1.1" 
                                             id="Capa_1" 

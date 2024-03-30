@@ -98,7 +98,7 @@ export default {
                 'border-blue-500': true,
                 'text-blue-500': true,
                 };
-            } else if (tech === "Javascript") {
+            } else if (tech === "Javascript" || tech === "Vite.js") {
                 return {
                 'border-yellow-500': true,
                 'text-yellow-500': true,
